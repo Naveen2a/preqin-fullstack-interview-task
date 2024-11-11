@@ -47,12 +47,11 @@ const DetailsPage = () => {
                 borderRadius: 2,
                 maxWidth: 1000,
                 margin: 'auto',
-
                 justifyContent: 'center',
                 flexDirection: 'column',
                 alignItems: 'center',
                 minHeight: '10vh',
-                padding: 2,
+                
             }}
         >
             <Typography variant="h4" sx={{ marginBottom: 2 }} >
